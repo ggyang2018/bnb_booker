@@ -1,0 +1,7 @@
+Predefined entity
+
+&lt;     produces the left angle bracket         < 
+&gt;     produces the right angle bracket         > 
+&amp;    produces the ampersand                  & 
+&apos;   produces a single quote character       '
+&quot;   produces a double quote character       " 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slkusermap>
+<SLKUser>
+<BuzID>ednamary</BuzID>
+<UserName>ednamary</UserName>
+<Password>hondacivic</Password>
+<Reminder>car</Reminder>
+<userType>General User</userType>
+</SLKUser>
+<SLKUser>
+<BuzID>aaaaa</BuzID>
+<UserName>aaaaa</UserName>
+<Password>aaaaa</Password>
+<Reminder>aaaaa</Reminder>
+<userType>Administrator</userType>
+</SLKUser>
+<SLKUser>
+<BuzID>Janet</BuzID>
+<UserName>Janet</UserName>
+<Password>4thjuly</Password>
+<Reminder>date of arrival</Reminder>
+<userType>Administrator</userType>
+</SLKUser>
+<SLKUser>
+<BuzID>John</BuzID>
+<UserName>John</UserName>
+<Password>maxdog</Password>
+<Reminder>best friend</Reminder>
+<userType>General User</userType>
+</SLKUser>
+<SLKUser>
+<BuzID>Andrew</BuzID>
+<UserName>Andrew</UserName>
+<Password>Guinness</Password>
+<Reminder>dog</Reminder>
+<userType>Administrator</userType>
+</SLKUser>
+</slkusermap>
